@@ -1,0 +1,3 @@
+﻿  radix.cpp
+C:\Users\max28\source\repos\radix\radix.cpp(43,23): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  radix.vcxproj -> C:\Users\max28\source\repos\radix\x64\Debug\radix.exe
