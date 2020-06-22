@@ -1,0 +1,2 @@
+C:\Users\max28\source\repos\TVSet\Debug\TVSet.exe
+C:\Users\max28\source\repos\TVSet\Debug\TVSet.pdb

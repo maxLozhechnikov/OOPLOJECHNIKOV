@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  test.cpp
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall CTVSet::TurnOn(void)" (?TurnOn@CTVSet@@QAEXXZ) в функции "private: virtual void __thiscall GetChannelTest_HandlesPositiveInput_Test::TestBody(void)" (?TestBody@GetChannelTest_HandlesPositiveInput_Test@@EAEXXZ)
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall CTVSet::TurnOff(void)" (?TurnOff@CTVSet@@QAEXXZ) в функции "private: virtual void __thiscall GetChannelTest_HandlesPositiveInput_Test::TestBody(void)" (?TestBody@GetChannelTest_HandlesPositiveInput_Test@@EAEXXZ)
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __thiscall CTVSet::SelectChannel(int)" (?SelectChannel@CTVSet@@QAE_NH@Z) в функции "private: virtual void __thiscall SelectChannelTest_HandlesPositiveInput_Test::TestBody(void)" (?TestBody@SelectChannelTest_HandlesPositiveInput_Test@@EAEXXZ)
+test.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int __thiscall CTVSet::GetChannel(void)const " (?GetChannel@CTVSet@@QBEHXZ) в функции "private: virtual void __thiscall GetChannelTest_HandlesPositiveInput_Test::TestBody(void)" (?TestBody@GetChannelTest_HandlesPositiveInput_Test@@EAEXXZ)
+C:\Users\max28\source\repos\TVSet\Debug\TVSetTests.exe : fatal error LNK1120: неразрешенных внешних элементов: 4
