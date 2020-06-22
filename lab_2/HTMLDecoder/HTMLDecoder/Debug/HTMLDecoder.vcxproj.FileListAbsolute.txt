@@ -1,0 +1,2 @@
+C:\Users\max28\source\repos\HTMLDecoder\Debug\HTMLDecoder.exe
+C:\Users\max28\source\repos\HTMLDecoder\Debug\HTMLDecoder.pdb
