@@ -1,0 +1,2 @@
+C:\oop\OOPLOJECHNIKOV\lab5\Rational\x64\Debug\Rational.exe
+C:\oop\OOPLOJECHNIKOV\lab5\Rational\x64\Debug\Rational.pdb
