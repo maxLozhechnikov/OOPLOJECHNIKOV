@@ -1,0 +1,10 @@
+﻿  CBody.cpp
+  CCone.cpp
+  CCylinder.cpp
+  CParallelepiped.cpp
+  CSphere.cpp
+  Controller.cpp
+C:\Users\Admin\Documents\gitHub\oop_2020\lab4\Bodies\Controller.cpp(35,21): warning C4551: в вызове функции отсутствует список аргументов
+  BodiesTests.cpp
+  Создание кода...
+  BodiesTests.vcxproj -> C:\Users\Admin\Documents\gitHub\oop_2020\lab4\Bodies\Debug\BodiesTests.exe

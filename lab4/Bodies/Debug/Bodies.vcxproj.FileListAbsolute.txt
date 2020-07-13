@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Bodies\Debug\Bodies.exe
+C:\Users\Admin\source\repos\Bodies\Debug\Bodies.pdb
+C:\Users\Admin\Documents\gitHub\oop_2020\lab4\Bodies\Debug\Bodies.exe
+C:\Users\Admin\Documents\gitHub\oop_2020\lab4\Bodies\Debug\Bodies.pdb
