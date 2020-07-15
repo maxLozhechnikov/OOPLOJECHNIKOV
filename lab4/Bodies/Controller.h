@@ -4,7 +4,6 @@
 #include "CCylinder.h"
 #include "CParallelepiped.h"
 #include "CSphere.h"
-#include "stdafx.h"
 
 const int TYPE_CALCULATE = 0;
 const int TYPE_CONE = 1;

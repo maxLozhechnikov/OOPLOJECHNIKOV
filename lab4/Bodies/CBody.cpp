@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "CBody.h"
 
 CBody::CBody(std::string type, double density)
@@ -9,17 +10,17 @@ CBody::CBody(std::string type, double density)
 CBody::~CBody()
 {}
 
-double CBody::GetDensity()
+double CBody::GetDensity() const
 {
 	return CBody::density;
 }
 
-double CBody::GetResultingForceInWater()
+double CBody::GetResultingForceInWater() const
 {
 	return round((GetDensity() - LIQUID_DENSITY) * GetVolume() * GRAVITATIONAL_ACCELERATION * 1000) / 1000;
 }
 
-double CBody::GetMass()
+double CBody::GetMass() const
 {
 	return round(GetDensity() * GetVolume() * 1000) / 1000;
 }

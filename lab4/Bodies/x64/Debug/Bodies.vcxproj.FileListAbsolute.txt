@@ -1,2 +1,4 @@
 C:\Users\max28\Desktop\lab4\Bodies\x64\Debug\Bodies.exe
 C:\Users\max28\Desktop\lab4\Bodies\x64\Debug\Bodies.pdb
+C:\oop\OOPLOJECHNIKOV\lab4\Bodies\x64\Debug\Bodies.exe
+C:\oop\OOPLOJECHNIKOV\lab4\Bodies\x64\Debug\Bodies.pdb

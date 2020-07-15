@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "CParallelepiped.h"
 
 CParallelepiped::CParallelepiped(double density, double width, double height, double depth)

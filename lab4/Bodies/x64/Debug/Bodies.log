@@ -2,9 +2,8 @@
   CBody.cpp
   CCone.cpp
   CCylinder.cpp
-  Controller.cpp
-C:\Users\max28\Desktop\lab4\Bodies\Controller.cpp(35,21): warning C4551: в вызове функции отсутствует список аргументов
   CParallelepiped.cpp
   CSphere.cpp
+  Controller.cpp
   Создание кода...
-  Bodies.vcxproj -> C:\Users\max28\Desktop\lab4\Bodies\x64\Debug\Bodies.exe
+  Bodies.vcxproj -> C:\oop\OOPLOJECHNIKOV\lab4\Bodies\x64\Debug\Bodies.exe

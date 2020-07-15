@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "Controller.h"
 
 bool IsCorrectType(int& type) 
@@ -32,7 +33,7 @@ void FillBodiesVector(std::vector<std::shared_ptr<CBody>>& bodies, std::istream&
 	{
 		output << ENTER_BODY_TYPE;
 		input >> type;
-		if (!IsCorrectType) {
+		if (!IsCorrectType(type)) {
 			output << UNKNOWN_TYPE;
 		}
 		else 
